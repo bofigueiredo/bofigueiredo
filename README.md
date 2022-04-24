@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[CodePen](https://codepen.io/bofigueiredo/)
+[StackOverflow](https://stackoverflow.com/users/10311785/bofigueiredo)
+[Twitter](https://twitter.com/bofigueiredo)
+[Youtube](https://www.youtube.com/user/bofigueiredo)
 -->
