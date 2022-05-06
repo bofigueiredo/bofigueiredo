@@ -1,0 +1,10 @@
+* { 
+  --bf-background-color: #1d1e22;
+  --bf-bcolor: white;
+}
+
+body {
+  font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+  background-color: var(--bf-background-color);  
+  color: var(--bf-bcolor);
+}
