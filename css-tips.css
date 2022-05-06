@@ -13,7 +13,7 @@
   inset: 0;
   border-radius: 10px;
   box-shadow: 2px 2px 20px 5px var(--box-shadow-color);
-  background-image: linear-gradient(to top right, var(--background-gradient-color), rgba(255,0,0,0) 2%);
+  background-image: linear-gradient(to top right, var(--background-gradient-color), rgba(255,0,0,0) 2%, rgba(255,0,0,0) 95%, var(--background-gradient-color));
 }
 
 .description-panel {
