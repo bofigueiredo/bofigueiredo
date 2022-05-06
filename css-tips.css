@@ -1,0 +1,31 @@
+.panel { 
+  position: relative;
+  height:calc(100% - 40px);
+  width: 50%;  
+  margin:20px;
+  padding: 20px;
+} 
+
+.panel::before {
+  content: ' ';
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px 5px var(--box-shadow-color);
+  background-image: linear-gradient(to top right, var(--background-gradient-color), rgba(255,0,0,0) 4%);
+}
+
+.description-panel {
+  border-left: 20px solid #FDD835;
+}
+
+.avoid-panel {
+  --box-shadow-color: #b10c0c;
+  --background-gradient-color: #ff0000;
+}
+
+.prefer-panel {
+  --box-shadow-color: #009f0d;
+  --background-gradient-color: #00ff19;
+}
